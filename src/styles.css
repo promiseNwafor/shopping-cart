@@ -1,0 +1,32 @@
+* {
+  display: inline-block;
+}
+
+body {
+  background: rgb(102, 104, 103);
+  color: rgb(208, 208, 209);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+button {
+  margin: 0.5rem;
+}
+.Cart {
+  background: rgb(250, 247, 249);
+  color: rgb(65, 65, 66);
+  margin: 2rem;
+  padding: 2rem;
+  border-radius: 5px;
+}
+.CartItems {
+  border-bottom: 1px dotted rgba(73, 73, 71, 0.2);
+  padding: 2rem;
+}
+.Cost {
+  border: 1px dotted rgb(88, 192, 79);
+  padding: 1rem;
+  margin-left: 0.5rem;
+}
